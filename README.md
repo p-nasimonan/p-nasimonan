@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=for-the-badge&logoColor=white">
   <!-- インフラ一覧 -->
   <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-githubactions-FFFFFF.svg?logo=github-actions&style=for-the-badge">
 </p>
 MYSQL使えるようになりたい
 
@@ -15,9 +14,16 @@ MYSQL使えるようになりたい
 <table>
 <thead>
 <tr>
+  <th>質問</th>
+  <th>回答</th>
+  <th>詳細</th>
+</tr>
+</thead>
+  <tr>
   <th>名前の由来について</th>
   <td> 梨が元ネタです。</td>
   <td>最近作ったアカウントです。小学生に作ったやつはセキュリティガバガバだったので。といいつつ多分まだ過去のアカウントは存在しているかも</td>
+  </tr>
 <!--
 **p-nasimonan/p-nasimonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
