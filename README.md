@@ -1,13 +1,18 @@
 ## Hi there 👋
 
+### ブログ
+<a href = https://ie.u-ryukyu.ac.jp/p-nasi/>
+<img src="https://ie.u-ryukyu.ac.jp/p-nasi/img/logo.png" width="20%" alt ="P-nasiブログ">
+</a>
+
+### 自宅サーバー（マイクラもやってるよ）
+https://p-nasi.pgw.jp/
+---
   <!-- バックエンドの言語一覧 -->
-  <img src="https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=for-the-badge">
-  <!-- ミドルウェア一覧 -->
-  <img src="https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=for-the-badge&logoColor=white">
-  <!-- インフラ一覧 -->
-  <img src="https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=for-the-badge">
-</p>
-MYSQL使えるようになりたい
+#### Pythonは相対的に得意でござる
+<img src="https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=for-the-badge">
+
+MYSQL使えるようになりたい。javascript勉強中
 
 ## 目次
 
