@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-### ブログ
+## ブログ↓アイコンをクリック！
 <a href = https://ie.u-ryukyu.ac.jp/p-nasi/>
 <img src="https://ie.u-ryukyu.ac.jp/p-nasi/img/logo.png" width="20%" alt ="P-nasiブログ">
 </a>
 
-### 自宅サーバー（マイクラもやってるよ）
-https://p-nasi.pgw.jp/
+
+<a href = 'https://p-nasi.pgw.jp/'>自宅サーバー（マイクラもやってるよ）</a>
 ---
   <!-- バックエンドの言語一覧 -->
 #### Pythonは相対的に得意でござる
