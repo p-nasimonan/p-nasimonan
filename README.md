@@ -1,4 +1,7 @@
 ## Hi there 👋
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=p-nasimonan)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=p-nasimonan)
+
 
 ## ブログ↓アイコンをクリック！
 <a href = https://ie.u-ryukyu.ac.jp/p-nasi/>
