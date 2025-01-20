@@ -3,23 +3,27 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=p-nasimonan)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=p-nasimonan)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,java,vscode,vim,python,flask,git,kubernetes,docker,c,linux,nginx,ts,autocad)](https://skillicons.dev)
 
+↑完璧ではないが触れた技術と作る道具
 
 ## ブログ↓アイコンをクリック！
 <a href = https://ie.u-ryukyu.ac.jp/p-nasi/>
 <img src="https://ie.u-ryukyu.ac.jp/p-nasi/img/logo.png" width="20%" alt ="P-nasiブログ">
 </a>
 
+## 自宅サーバー
+#### やってることの記事  https://scrapbox.io/pnasi/
 
-<a href = 'https://anko.pgw.jp/'>自宅サーバー（マイクラもやってるよ）</a>
----
-  <!-- バックエンドの言語一覧 -->
-#### Pythonは相対的に得意でござる
-<img src="https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=for-the-badge">
+#### URIはこちら  http://anko.pgw.jp/
+(早く証明書取得しよう)
 
-MYSQL使えるようになりたい。javascript勉強中
+## 参加ハッカソン
+### - 技育CAMP ハッカソン2024年
+  - vol.10 https://github.com/RobotClub-RyukyuUniv/TCDB
+  - vol.13 https://github.com/p-nasimonan/Self-introduction-card-creation-tool-SICCT-
 
-## 目次
+## 質問コーナー
 
 <table>
 <thead>
@@ -36,8 +40,5 @@ MYSQL使えるようになりたい。javascript勉強中
   </tr>
 </table>
 
-## 参加ハッカソン
-### - 技育CAMP ハッカソン2024年
-  - vol.10 https://github.com/RobotClub-RyukyuUniv/TCDB
-  - vol.13 https://github.com/p-nasimonan/Self-introduction-card-creation-tool-SICCT-
+
 
