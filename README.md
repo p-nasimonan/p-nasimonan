@@ -15,8 +15,9 @@
 ## 自宅サーバー
 #### やってることの記事  https://scrapbox.io/pnasi/
 
-#### URIはこちら  http://anko.pgw.jp/
-(早く証明書取得しよう)
+#### URIはこちら  https://anko.pgw.jp/
+最近proxmoxとgitlabとtruenasを入れたりして遊んでる  
+ぷぷりえーるのカード構築サイトも自宅鯖: https://pple-ru.pgw.jp/
 
 ## 参加ハッカソン
 ### - 技育CAMP ハッカソン2024年
