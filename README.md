@@ -3,17 +3,17 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=p-nasimonan)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=p-nasimonan)
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,java,vscode,vim,python,flask,git,kubernetes,docker,c,linux,nginx,ts,autocad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,java,vscode,vim,python,selenium,flask,git,gitlab,kubernetes,docker,c,linux,nginx,autocad,blender)](https://skillicons.dev)
 
-↑完璧ではないが触れた技術と作る道具
+
 
 ## ブログ↓アイコンをクリック！
 <a href = https://ie.u-ryukyu.ac.jp/p-nasi/>
-<img src="https://ie.u-ryukyu.ac.jp/p-nasi/img/logo.png" width="20%" alt ="P-nasiブログ">
+<img src="https://ie.u-ryukyu.ac.jp/p-nasi/img/logo.png" width="15%" alt ="P-nasiブログ">
 </a>
 
 ## 自宅サーバー
-#### やってることの記事  https://scrapbox.io/pnasi/
+#### やってることのメモ  https://scrapbox.io/pnasi/
 
 #### URIはこちら  https://anko.pgw.jp/
 最近proxmoxとgitlabとtruenasを入れたりして遊んでる  
@@ -25,7 +25,7 @@
   - vol.13 https://github.com/p-nasimonan/Self-introduction-card-creation-tool-SICCT-
 
 ## 質問コーナー
-
+変な書き方をしてみました(html)
 <table>
 <thead>
 <tr>
@@ -35,9 +35,14 @@
 </tr>
 </thead>
   <tr>
-  <th>名前の由来について</th>
-  <td> 梨が元ネタです。</td>
+  <th>p-nasiについて</th>
+  <td> 梨が元ネタです。ユーザー名ではなく、サーバー全体のことです</td>
   <td>最近作ったアカウントです。小学生に作ったやつはセキュリティガバガバだったので。といいつつ多分まだ過去のアカウントは存在しているかも</td>
+  </tr>
+  <tr>
+  <th>ユーザー名は？</th>
+  <td>ようかんです</td>
+  <td>ようかんが好きなので。</td>
   </tr>
 </table>
 
