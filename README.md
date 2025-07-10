@@ -19,7 +19,7 @@ https://ie.u-ryukyu.ac.jp/p-nasi
 https://scrapbox.io/pnasi/  
 最近proxmoxとgitlabとtruenasを入れたりして遊んでる  
 ### URL
-- ぷぷりえーるのカード構築サイトも自宅鯖: [https://pple-ru.pgw.jp/](https://pplale.pgw.jp/)
+- ぷぷりえーるのカード構築サイトも自宅鯖: [https://pplale.pgw.jp/](https://pplale.pgw.jp/)
 - 自宅Gitlab: https://gitlab.p-nasi.pgw.jp/root
 - 自己紹介ページも自宅鯖(cloudflare tunnel): https://youkan.uk/
 
