@@ -26,7 +26,14 @@ https://scrapbox.io/pnasi/
 ## 参加ハッカソン
 ### - 技育CAMP ハッカソン2024年
   - vol.10 https://github.com/RobotClub-RyukyuUniv/TCDB
+    - ロボットサークル(3人くらいでやった)
   - vol.13 https://github.com/p-nasimonan/Self-introduction-card-creation-tool-SICCT-
+    - 同じコースの友達(3人くらい)Gitを教えながら開発した
+### - 技育CAMP ハッカソン2025年
+  - vol.7
+    - フロント: https://github.com/develoop-official/ChoibenAssist-Front
+    - バック: https://github.com/develoop-official/ChoibenAssist-Back
+    - 文系だけどスクール通っててエンジニア目指してる先輩と二人でやった。初めてガチのプロダクトにできそうなものができた
 
 ## 質問コーナー
 変な書き方をしてみました(html)
