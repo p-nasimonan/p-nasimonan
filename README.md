@@ -17,11 +17,13 @@ https://ie.u-ryukyu.ac.jp/p-nasi
 ## 自宅サーバー
 #### やってることのメモ  
 https://scrapbox.io/pnasi/  
-最近proxmoxとgitlabとtruenasを入れたりして遊んでる  
+最近proxmoxとgitlabとtruenasを入れたりして遊んでる。
+最近ドメイン買ってからcloud flare tunnelが楽で使ってる
 ### URL
 - ぷぷりえーるのカード構築サイトも自宅鯖: [https://pplale.pgw.jp/](https://pplale.pgw.jp/)
+- ちょい勉アシスト: https://choiben-front.youkan.uk/
 - 自宅Gitlab: https://gitlab.p-nasi.pgw.jp/root
-- 自己紹介ページも自宅鯖(cloudflare tunnel): https://youkan.uk/
+- 自己紹介ページも自宅鯖: https://youkan.uk/
 
 ## 参加ハッカソン
 ### - 技育CAMP ハッカソン2024年
