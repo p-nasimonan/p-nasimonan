@@ -1,5 +1,6 @@
 ## Hi there 👋
-琉大知能情報2年だよ！!!VRChat民です
+琉大知能情報2年だよ！!!VRChat民です。
+色々やってて器用貧乏かも？
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=p-nasimonan)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=p-nasimonan)
