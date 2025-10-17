@@ -1,6 +1,5 @@
 ## Hi there 👋
-琉大知能情報2年だよ！!!VRChat民です。
-色々やってて器用貧乏かも？
+コーディングよりもものづくりが好き。ようかんって呼んでね!
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=p-nasimonan)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=p-nasimonan)
@@ -8,23 +7,19 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=p-nasimonan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## ブログ
-大学内:  
-https://ie.u-ryukyu.ac.jp/p-nasi
 
-自宅鯖:  
-https://dev.youkan.uk/
 
 ## 自宅サーバー
+自己紹介ページ: https://youkan.uk/
 #### やってることのメモ  
 https://scrapbox.io/pnasi/  
 最近proxmoxとgitlabとtruenasを入れたりして遊んでる。
 最近ドメイン買ってからcloud flare tunnelが楽で使ってる
+
 ### URL
-- ぷぷりえーるのカード構築サイトも自宅鯖: [https://pplale.pgw.jp/](https://pplale.pgw.jp/)
 - ちょい勉アシスト: https://choiben-front.youkan.uk/
 - 自宅Gitlab: https://gitlab.p-nasi.pgw.jp/root
-- 自己紹介ページも自宅鯖: https://youkan.uk/
+
 
 ## 参加ハッカソン
 ### - 技育CAMP ハッカソン2024年
