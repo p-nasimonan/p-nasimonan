@@ -16,10 +16,6 @@ https://scrapbox.io/pnasi/
 最近proxmoxとgitlabとtruenasを入れたりして遊んでる。
 最近ドメイン買ってからcloud flare tunnelが楽で使ってる
 
-### URL
-- ちょい勉アシスト: https://choiben-front.youkan.uk/
-- 自宅Gitlab: https://gitlab.p-nasi.pgw.jp/root
-
 
 ## 参加ハッカソン
 ### - 技育CAMP ハッカソン2024年
