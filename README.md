@@ -1,22 +1,11 @@
 ## Hi there 👋
 コーディングよりもものづくりが好き。ようかんって呼んでね!
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=p-nasimonan)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=p-nasimonan)
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,java,vscode,vim,python,selenium,flask,git,gitlab,kubernetes,docker,c,linux,nginx,autocad,blender)](https://skillicons.dev)
-[![trophy](https://github-profile-trophy.vercel.app/?username=p-nasimonan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-## 今開発してるの
-**UbiChill**  
-作業部屋がブラウザでほしかったので  
-https://github.com/ubichill/ubichill
-
 ## 自宅サーバー
 自己紹介ページ: https://youkan.uk/
 #### やってることのメモ  
 https://scrapbox.io/pnasi/  
+https://zenn.dev/yokan
 最近proxmoxとgitlabとtruenasを入れたりして遊んでる。
 最近ドメイン買ってからcloud flare tunnelが楽で使ってる
 
@@ -37,5 +26,10 @@ https://scrapbox.io/pnasi/
    - アプリURL: https://ubichill.youkan.uk/
    - デプロイはhelm chartsでできるよ！
 
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=p-nasimonan)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=p-nasimonan)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,java,vscode,vim,python,selenium,flask,git,gitlab,kubernetes,docker,c,linux,nginx,autocad,blender)](https://skillicons.dev)
+[![trophy](https://github-profile-trophy.vercel.app/?username=p-nasimonan&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
