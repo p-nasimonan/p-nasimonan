@@ -32,7 +32,10 @@ https://scrapbox.io/pnasi/
     - フロント: https://github.com/develoop-official/ChoibenAssist-Front
     - バック: https://github.com/develoop-official/ChoibenAssist-Back
     - 文系だけどスクール通っててエンジニア目指してる先輩と二人でやった。初めてガチのプロダクトにできそうなものができた
-
+### - 技育CAMP ハッカソン2026年
+   - リポジトリ: https://github.com/ubichill/ubichill
+   - アプリURL: https://ubichill.youkan.uk/
+   - デプロイはhelm chartsでできるよ！
 
 
 
