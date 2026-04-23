@@ -1,10 +1,9 @@
 ## Hi there 👋
 何か作るの好き。ようかんって呼んでね!
 
-https://youkan.uk/
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=p-nasimonan)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=p-nasimonan)
 
-ブログ:
-https://zenn.dev/yokan
 
 
 ## 参加ハッカソン
@@ -20,6 +19,3 @@ https://zenn.dev/yokan
    - アプリURL: https://ubichill.youkan.uk/
    - デプロイはhelm chartsでできるよ！
 
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=p-nasimonan)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=p-nasimonan)
